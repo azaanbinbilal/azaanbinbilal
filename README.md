@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working myself<br>👯 I’m looking for myself<br>🌱 I’m currently learning about myself<br>⚡ Fun fact: im him
+🔭 I’m currently working on myself<br>👯 I’m looking for myself<br>🌱 I’m currently learning about myself<br>⚡ Fun fact: im him
 
 
 # 💻 Tech Stack:
